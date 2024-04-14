@@ -20,7 +20,7 @@
 1. Скачайте репозиторій:
 
     ```bash
-    git clone https://github.com/yourusername/gltf-model-viewer.git
+    git clone https://github.com/posandre/gltf-model-viewer.git
     ```
 
 2. Перейдіть до каталогу проекту:
@@ -52,7 +52,7 @@
 
 ## Автори
 
-- [Ваше Ім'я](https://github.com/yourusername)
+- [Андрій постолюк](https://github.com/posandre/)
 
 ## Ліцензія
 
